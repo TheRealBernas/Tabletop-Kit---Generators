@@ -6,7 +6,8 @@ This project is authored, directed, and maintained by Bernardo Oliveira.
 It was developed with assistance from an AI assistant using Copilot SDK in
 VS Code. Bernardo led the work, set the product direction, and validated the
 decisions and changes. The AI assistant contributed implementation, review,
-and documentation support under Bernardo's direction.
+and documentation support under Bernardo's direction. The assistant is
+acknowledged as a contributing tool, not as a copyright holder.
 
 The plugin source is split by responsibility under `src/`. The root `main.js`
 is a development loader for the modular source tree. Release builds bundle the
@@ -42,6 +43,7 @@ types. Generators work offline and make no network requests.
 
 ## License
 
-Original project material is licensed under the MIT License. SRD-derived
-material is excluded from that license and remains under CC BY 4.0; see
+The MIT license in [`LICENSE`](./LICENSE) applies to the project's original
+material and identifies Bernardo Oliveira as its copyright claimant. It does
+not cover SRD-derived material, which remains under CC BY 4.0; see
 [`THIRD-PARTY-NOTICES.md`](./THIRD-PARTY-NOTICES.md).

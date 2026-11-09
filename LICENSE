@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-This license applies to original material in this project. Third-party
-materials, including SRD-derived material described in THIRD-PARTY-NOTICES.md,
-are not relicensed under this MIT License.
-
-The project was developed under the direction of Bernardo Oliveira, who led
-the product decisions and validated the changes, with implementation, review,
-and documentation assistance from an AI assistant using Copilot SDK in
-VS Code. This acknowledgment does not make the AI assistant a copyright holder.
