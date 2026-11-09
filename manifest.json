@@ -1,0 +1,10 @@
+{
+	"id": "tabletop-kit-generators",
+	"name": "Tabletop Kit - Generators",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Generate random tabletop RPG content in Obsidian.",
+	"author": "TheRealBernas",
+	"authorUrl": "https://github.com/TheRealBernas",
+	"isDesktopOnly": false
+}
