@@ -1,5 +1,28 @@
 # Tabletop Kit - Generators
 
+Tabletop Kit - Generators is an Obsidian plugin for creating useful tabletop
+RPG material without leaving your vault. Generate NPCs, weather conditions, and
+shop inventories on demand, right from the plugin's sidebar view.
+
+## Features
+
+- **NPC Generator:** Create a character with a name, species, age, gender, job,
+  personality, mannerisms, voice, and appearance details. Configure which
+  species and genders can appear, and copy a generated NPC into your notes.
+- **Weather Generator:** Generate a weather condition with temperature,
+  precipitation, wind, visibility, and travel information. Choose temperature
+  units and enabled weather types, optionally refresh results automatically,
+  and copy the result into your notes.
+- **Shop Generator:** Generate a shop with a randomly created shopkeeper and
+  inventory. Choose a shop type and inventory size; items include stock and
+  cheap, normal, and expensive prices.
+- **English and Portuguese:** Use either language and select a language for
+  individual generators.
+- **Works offline:** Generation runs locally and makes no network requests.
+
+Open the generators from the sidebar or use the plugin's commands. The NPC,
+weather, and shop settings can be adjusted from Obsidian's plugin settings.
+
 ## Collaboration
 
 This project is authored, directed, and maintained by Bernardo Oliveira.
@@ -39,7 +62,7 @@ only for distribution. `npm test` builds the release output and runs the tests;
 NPC settings let you choose the races and genders used by random generation.
 The Shop settings configure the default shop type and inventory size. Weather
 settings configure temperature units, automatic refresh, and enabled weather
-types. Generators work offline and make no network requests.
+types.
 
 ## License
 
